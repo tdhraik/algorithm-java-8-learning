@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a40f16a1-d7c0-4f9c-8f0c-5e5b90dac84e" name="Default Changelist" comment="" />
+    <list default="true" id="a40f16a1-d7c0-4f9c-8f0c-5e5b90dac84e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithms/CommonCharsInStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/bfs_tree/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/bfs_tree/SimpleTreeTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/cyclic_sort/CyclicSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/cyclic_sort/FindAllMissingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/cyclic_sort/FindMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/FindNosNotInPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/MissingNoFrom1To10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays/TwoArraysAreEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bays/SteppingStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding_challenges/PythagoreanTripletsWithStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concepts/FailFastFailSafeIterators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concepts/MapVsFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modernjava/FunctionalInterfaceEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/BehaviourParameterization$Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/BehaviourParameterization$ApplePredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/BehaviourParameterization$GreenApplePredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/BehaviourParameterization$HeavyWeightPredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/BehaviourParameterization$Predicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/BehaviourParameterization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/ExerciseOnStreams$Trader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/ExerciseOnStreams$Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/ExerciseOnStreams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/LambdasUsesWithJava8$Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/LambdasUsesWithJava8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/ParallelStreams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/StreamsCollector$Dish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/StreamsCollector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/AllPermutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/AllPermutation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/Factorial_Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/Factorial_Streams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/FetchAllDuplicate4mStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/FetchAllDuplicate4mStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/MaxOccurringCharInStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/MaxOccurringCharInStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnjava8/coding_challenges/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/parking/BikeParking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnjava8/parking/BikeParking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/parking/CarParking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnjava8/parking/CarParking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/yiluchallenge/StringChallenge2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnjava8/yiluchallenge/StringChallenge2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnjava8/yiluchallenge/YiluTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnjava8/yiluchallenge/YiluTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BehaviourParameterization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modernjava/BehaviourParameterization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExerciseOnStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modernjava/ExerciseOnStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdasUsesWithJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modernjava/LambdasUsesWithJava8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParallelStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modernjava/ParallelStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StreamsCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modernjava/StreamsCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding_challenges/AllPermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_challenges/AllPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding_challenges/Factorial_Streams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_challenges/Factorial_Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding_challenges/FetchAllDuplicate4mStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_challenges/FetchAllDuplicate4mStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding_challenges/MaxOccurringCharInStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_challenges/MaxOccurringCharInStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding_challenges/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding_challenges/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parking/BikeParking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parking/BikeParking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/parking/CarParking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/parking/CarParking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yiluchallenge/SortingChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenge/SortingChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yiluchallenge/StringChallenge1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenge/StringChallenge1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yiluchallenge/StringChallenge2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenge/StringChallenge2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yiluchallenge/YiluTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/challenge/YiluTest1.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,66 +76,73 @@
     <session id="722577674">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="180" />
-          <entry key="txt" value="4" />
+          <entry key="class" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="iml" value="4" />
+          <entry key="java" value="295" />
+          <entry key="md" value="1" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="180" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="JAVA" value="295" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="33609" />
+          <entry key="gitignore" value="17" />
+          <entry key="java" value="48901" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33609" />
+          <entry key="JAVA" value="48901" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LambdasUsesWithJava8.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding_challenges/MaxOccurringCharInStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="123" column="57" lean-forward="true" selection-start-line="123" selection-start-column="57" selection-end-line="123" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="class#Apple#0;class#LambdasUsesWithJava8#0" />
-              </folding>
+            <state relative-caret-position="450">
+              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding_challenges/SortMapByKeysOrValue.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -93,62 +163,69 @@
       <find>valueOf</find>
       <find>equals</find>
       <find>replaceAll</find>
+      <find>SimpleTreeTraversal</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CalendarTest.java" />
-        <option value="$PROJECT_DIR$/src/Person.java" />
-        <option value="$PROJECT_DIR$/src/PersonTest.java" />
-        <option value="$PROJECT_DIR$/src/Account.java" />
-        <option value="$PROJECT_DIR$/src/LambdasUsesWithJava8.java" />
-        <option value="$PROJECT_DIR$/src/ParallelStreams.java" />
-        <option value="$PROJECT_DIR$/src/designpatterns/Strategy.java" />
-        <option value="$PROJECT_DIR$/src/coding-challenges/StringChallenge1.java" />
-        <option value="$PROJECT_DIR$/src/codingchallenges/StringChallenge1.java" />
-        <option value="$PROJECT_DIR$/src/designpatterns/BuilderDesignPattern.java" />
-        <option value="$PROJECT_DIR$/src/designpatterns/Cake.java" />
-        <option value="$PROJECT_DIR$/src/codingchallenges/SortingChalleneg.java" />
-        <option value="$PROJECT_DIR$/src/codingchallenges/SortingChallenge.java" />
-        <option value="$PROJECT_DIR$/src/codingchallenges/StringChallenge2.java" />
-        <option value="$PROJECT_DIR$/src/StreamsCollector.java" />
-        <option value="$PROJECT_DIR$/src/deckofcards/CardColorEnum.java" />
-        <option value="$PROJECT_DIR$/src/deckofcards/InvalidColorException.java" />
-        <option value="$PROJECT_DIR$/src/deckofcards/InvalidNumberException.java" />
-        <option value="$PROJECT_DIR$/src/deckofcards/PlayingCard.java" />
-        <option value="$PROJECT_DIR$/src/deckofcards/BlackCard.java" />
-        <option value="$PROJECT_DIR$/src/deckofcards/Card.java" />
-        <option value="$PROJECT_DIR$/src/deckofcards/RedCard.java" />
-        <option value="$PROJECT_DIR$/src/deckofcards/Trigger.java" />
-        <option value="$PROJECT_DIR$/src/parking/Parking.java" />
-        <option value="$PROJECT_DIR$/src/parking/CarParking.java" />
-        <option value="$PROJECT_DIR$/src/parking/BikeParking.java" />
-        <option value="$PROJECT_DIR$/src/parking/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/parking/Car.java" />
-        <option value="$PROJECT_DIR$/src/parking/Bike.java" />
-        <option value="$PROJECT_DIR$/src/codingchallenges/AllUniqueCharsInStr.java" />
-        <option value="$PROJECT_DIR$/src/yiluchallenge/YiluTest1.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/isPrime.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/PrimeNumber.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/MaxOccuringChar.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/RemoveAllDuplicateFromString.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/CountCharOccurrences.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/CountCharOccurrencesInStr.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/MaxOccurringChar.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/MaxOccurringCharInStr.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/AllPermutation.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/RemoveAllDuplicate4mStr.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/FetchAllDuplicate4mStr.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/Anagrams.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/ReverseString.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/ReverseStringRecursively.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/ReverseWordsInSentence.java" />
         <option value="$PROJECT_DIR$/src/coding_challenges/Factorial.java" />
-        <option value="$PROJECT_DIR$/src/coding_challenges/Factorial_Streams.java" />
         <option value="$PROJECT_DIR$/src/coding_challenges/SortMapByKeysOrValue.java" />
         <option value="$PROJECT_DIR$/src/BehaviourParameterization.java" />
         <option value="$PROJECT_DIR$/src/ExerciseOnStreams.java" />
+        <option value="$PROJECT_DIR$/src/coding_challenges/AllPermutation.java" />
+        <option value="$PROJECT_DIR$/.idea/learnjava8.iml" />
+        <option value="$PROJECT_DIR$/src/coding_challenges/PrimeNumber.java" />
+        <option value="$PROJECT_DIR$/src/arrays/MissingNoFrom1To100.java" />
+        <option value="$PROJECT_DIR$/src/arrays/MissingNoFrom1To10.java" />
+        <option value="$PROJECT_DIR$/src/arrays/FindNosNotInPair.java" />
+        <option value="$PROJECT_DIR$/src/test_3.java" />
+        <option value="$PROJECT_DIR$/src/Test3.java" />
+        <option value="$PROJECT_DIR$/src/parking/BikeParking.java" />
+        <option value="$PROJECT_DIR$/src/parking/CarParking.java" />
+        <option value="$PROJECT_DIR$/src/parking/PolymorphismTest.java" />
+        <option value="$PROJECT_DIR$/src/concepts/FailFastFailSafeIterators.java" />
+        <option value="$PROJECT_DIR$/src/concepts/MapVsFlatMap.java" />
+        <option value="$PROJECT_DIR$/src/coding_challenges/PythagoreanTripltes.java" />
+        <option value="$PROJECT_DIR$/src/coding_challenges/PythagoreanTripltesWithStreams.java" />
+        <option value="$PROJECT_DIR$/src/yiluchallenge/YiluTest1.java" />
+        <option value="$PROJECT_DIR$/src/grokking/slidingwindow/SubarrayAverage.java" />
+        <option value="$PROJECT_DIR$/src/coding_challenges/Factorial_Streams.java" />
+        <option value="$PROJECT_DIR$/src/coding_challenges/FetchAllDuplicate4mStr.java" />
+        <option value="$PROJECT_DIR$/src/coding_challenges/MaxOccurringCharInStr.java" />
+        <option value="$PROJECT_DIR$/src/coding_challenges/PythagoreanTripletsWithStreams.java" />
+        <option value="$PROJECT_DIR$/src/coding_challenges/ReverseStringRecursively.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/Recursion.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/BFS.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/SimpleTreeTraversal.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/TreeProblem1.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/Tree_BFS/TreeProblem1.java" />
+        <option value="$PROJECT_DIR$/src/sorting_algo/Tree_BFS/LevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/algos/Tree_BFS/LevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/Tree_BFS/LevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/cyclic_sort/CyclicSort.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/cyclic_sort/FindMissingNumber.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/cyclic_sort/FindAllMissingNumbers.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/CountCommonCharsInStrings.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/CommonCharsInStrings.java" />
+        <option value="$PROJECT_DIR$/src/revolut/LoadBalancer.java" />
+        <option value="$PROJECT_DIR$/src/LambdasUsesWithJava8.java" />
+        <option value="$PROJECT_DIR$/src/yiluchallenge/StringChallenge2.java" />
+        <option value="$PROJECT_DIR$/src/modernjava/FunctionalInterfaceEx.java" />
+        <option value="$PROJECT_DIR$/src/arrays/TwoArraysAreEqual.java" />
+        <option value="$PROJECT_DIR$/src/bays/SteppingStones.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -158,12 +235,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-202" />
-    <option name="y" value="-1033" />
-    <option name="width" value="1821" />
-    <option name="height" value="928" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -171,7 +247,6 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,19 +258,26 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="getValue()&#9;PSI&#9;JAVA://ExerciseOnStreams.Transaction#getValue" />
+    <property name="SearchEverywhereHistoryKey" value="Stream.ja&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java&#10;Producer&#9;PSI&#9;JAVA://oracle.jvm.hotspot.jfr.Producer&#10;COnsumer&#9;PSI&#9;JAVA://java.util.function.Consumer&#10;Predicate&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java&#10;getValue()&#9;PSI&#9;JAVA://ExerciseOnStreams.Transaction#getValue" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581091155613" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589665836041" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -209,27 +291,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExerciseOnStreams">
-    <configuration name="BehaviourParameterization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BehaviourParameterization" />
-      <module name="learnjava8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExerciseOnStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciseOnStreams" />
-      <module name="learnjava8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Factorial_Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding_challenges.Factorial_Streams" />
+  <component name="RunManager" selected="Application.SteppingStones">
+    <configuration name="SteppingStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bays.SteppingStones" />
       <module name="learnjava8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding_challenges.*" />
+          <option name="PATTERN" value="bays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordsInSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding_challenges.ReverseWordsInSentence" />
+    <configuration name="StringChallenge2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge.StringChallenge2" />
       <module name="learnjava8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding_challenges.*" />
+          <option name="PATTERN" value="challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,33 +318,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMapByKeysOrValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding_challenges.SortMapByKeysOrValue" />
+    <configuration name="FunctionalInterfaceEx.shouldReplaceGivenStringFromAllItemsInList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="learnjava8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="coding_challenges.*" />
+          <option name="PATTERN" value="modernjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="modernjava" />
+      <option name="MAIN_CLASS_NAME" value="modernjava.FunctionalInterfaceEx" />
+      <option name="METHOD_NAME" value="shouldReplaceGivenStringFromAllItemsInList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoArraysAreEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learnjava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arrays" />
+      <option name="MAIN_CLASS_NAME" value="arrays.TwoArraysAreEqual" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoArraysAreEqual.shouldBeEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learnjava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arrays" />
+      <option name="MAIN_CLASS_NAME" value="arrays.TwoArraysAreEqual" />
+      <option name="METHOD_NAME" value="shouldBeEqual" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ReverseWordsInSentence" />
-      <item itemvalue="Application.Factorial_Streams" />
-      <item itemvalue="Application.SortMapByKeysOrValue" />
-      <item itemvalue="Application.BehaviourParameterization" />
-      <item itemvalue="Application.ExerciseOnStreams" />
+      <item itemvalue="Application.StringChallenge2" />
+      <item itemvalue="JUnit.FunctionalInterfaceEx.shouldReplaceGivenStringFromAllItemsInList" />
+      <item itemvalue="JUnit.TwoArraysAreEqual.shouldBeEqual" />
+      <item itemvalue="JUnit.TwoArraysAreEqual" />
+      <item itemvalue="Application.SteppingStones" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExerciseOnStreams" />
-        <item itemvalue="Application.BehaviourParameterization" />
-        <item itemvalue="Application.SortMapByKeysOrValue" />
-        <item itemvalue="Application.Factorial_Streams" />
-        <item itemvalue="Application.ReverseWordsInSentence" />
+        <item itemvalue="Application.SteppingStones" />
+        <item itemvalue="JUnit.TwoArraysAreEqual.shouldBeEqual" />
+        <item itemvalue="JUnit.TwoArraysAreEqual" />
+        <item itemvalue="JUnit.FunctionalInterfaceEx.shouldReplaceGivenStringFromAllItemsInList" />
+        <item itemvalue="Application.StringChallenge2" />
       </list>
     </recent_temporary>
   </component>
@@ -307,14 +408,23 @@
       <workItem from="1580815806624" duration="18682000" />
       <workItem from="1580986988579" duration="13061000" />
       <workItem from="1581066514246" duration="5460000" />
-      <workItem from="1581260268827" duration="1070000" />
+      <workItem from="1581260268827" duration="1542000" />
+      <workItem from="1581702475653" duration="533000" />
+      <workItem from="1581709216445" duration="120000" />
+      <workItem from="1581709369091" duration="8176000" />
+      <workItem from="1582013499604" duration="255000" />
+      <workItem from="1582899368464" duration="9662000" />
+      <workItem from="1583232577412" duration="774000" />
+      <workItem from="1583518232739" duration="6334000" />
+      <workItem from="1583836874154" duration="220000" />
+      <workItem from="1588850018653" duration="34990000" />
+      <workItem from="1589207571319" duration="2273000" />
+      <workItem from="1589363176306" duration="25905000" />
+      <workItem from="1589638373247" duration="699000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringChallenge2_whenWayOneIsCalledWithValidWordToRemove_thenReturnStringWithWordRemoved - 2019.04.03 at 21h 13m 09s.xml">
-      <configuration name="StringChallenge2.whenWayOneIsCalledWithValidWordToRemove_thenReturnStringWithWordRemoved" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="StringChallenge2_whenWayOneIsCalledWithValidWordToRemove_thenReturnStringWithWordRemoved - 2019.04.03 at 21h 17m 01s.xml">
       <configuration name="StringChallenge2.whenWayOneIsCalledWithValidWordToRemove_thenReturnStringWithWordRemoved" configurationId="JUnit" />
     </history-entry>
@@ -324,15 +434,36 @@
     <history-entry file="StringChallenge2_whenWayOneIsCalledWithValidWordToRemove_thenReturnStringWithWordRemoved - 2019.04.03 at 21h 18m 32s.xml">
       <configuration name="StringChallenge2.whenWayOneIsCalledWithValidWordToRemove_thenReturnStringWithWordRemoved" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FunctionalInterfaceEx_shouldReplaceGivenStringFromAllItemsInList - 2020.05.13 at 14h 11m 43s.xml">
+      <configuration name="FunctionalInterfaceEx.shouldReplaceGivenStringFromAllItemsInList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalInterfaceEx_shouldReplaceGivenStringFromAllItemsInList - 2020.05.13 at 14h 46m 23s.xml">
+      <configuration name="FunctionalInterfaceEx.shouldReplaceGivenStringFromAllItemsInList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionalInterfaceEx_shouldReplaceGivenStringFromAllItemsInList - 2020.05.13 at 14h 46m 35s.xml">
+      <configuration name="FunctionalInterfaceEx.shouldReplaceGivenStringFromAllItemsInList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoArraysAreEqual_shouldBeEqual - 2020.05.13 at 16h 33m 36s.xml">
+      <configuration name="TwoArraysAreEqual.shouldBeEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoArraysAreEqual_shouldBeEqual - 2020.05.13 at 16h 33m 47s.xml">
+      <configuration name="TwoArraysAreEqual.shouldBeEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoArraysAreEqual - 2020.05.13 at 16h 34m 06s.xml">
+      <configuration name="TwoArraysAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoArraysAreEqual_shouldBeEqual - 2020.05.13 at 16h 40m 12s.xml">
+      <configuration name="TwoArraysAreEqual.shouldBeEqual" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99765000" />
+    <option name="totallyTimeSpent" value="190178000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-309" y="-1080" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30298188" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -340,17 +471,17 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329235" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3380084" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32277226" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24444444" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3875" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32871288" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -399,369 +530,338 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/deckofcards/Card.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/deckofcards/CardColorEnum.java">
+    <entry file="file://$PROJECT_DIR$/src/coding_challenges/PythagoreanTripletsWithStreams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/deckofcards/InvalidColorException.java">
+    <entry file="file://$PROJECT_DIR$/src/coding_challenges/PrimeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/deckofcards/InvalidNumberException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/deckofcards/RedCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpatterns/Cake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designpatterns/Strategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parking/Bike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parking/BikeParking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parking/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parking/CarParking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parking/Parking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/parking/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yiluchallenge/StringChallenge1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yiluchallenge/StringChallenge2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/yiluchallenge/SortingChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/IntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="670" column="20" selection-start-line="670" selection-start-column="20" selection-end-line="670" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParallelStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StreamsCollector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="83" column="49" lean-forward="true" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/YiluTest1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="337" column="25" selection-start-line="337" selection-start-column="25" selection-end-line="337" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Collector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="196" column="17" selection-start-line="196" selection-start-column="17" selection-end-line="196" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="821">
-          <caret line="1269" column="67" selection-start-line="1269" selection-start-column="54" selection-end-line="1269" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="4053" column="34" lean-forward="true" selection-start-line="4053" selection-start-column="34" selection-end-line="4053" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/IdentityHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4989">
-          <caret line="639" column="19" selection-start-line="639" selection-start-column="19" selection-end-line="639" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="305" column="42" selection-start-line="305" selection-start-column="36" selection-end-line="305" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/DualPivotQuicksort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="1486" column="16" selection-start-line="1486" selection-start-column="16" selection-end-line="1486" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/regex/Matcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="953" column="16" lean-forward="true" selection-start-line="953" selection-start-column="16" selection-end-line="953" selection-end-column="16" />
+        <state relative-caret-position="210">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="2239" column="27" selection-start-line="2239" selection-start-column="27" selection-end-line="2239" selection-end-column="27" />
+        <state relative-caret-position="15">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding_challenges/AllPermutation.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        <state relative-caret-position="630">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding_challenges/Anagrams.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="73" lean-forward="true" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
+        <state relative-caret-position="270">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/bfs_tree/SimpleTreeTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/sorting/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/bfs_tree/LevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="47" column="54" lean-forward="true" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="30" column="57" lean-forward="true" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/cyclic_sort/CyclicSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding_challenges/SortMapByKeysOrValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/IdentityHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1442">
+          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coding_challenges/CountCharOccurrencesInStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding_challenges/FetchAllDuplicate4mStr.java">
+    <entry file="file://$PROJECT_DIR$/src/coding_challenges/Factorial_Streams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding_challenges/MaxOccurringCharInStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding_challenges/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding_challenges/ReverseStringRecursively.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="480">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coding_challenges/ReverseWordsInSentence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding_challenges/Factorial_Streams.java">
+    <entry file="file://$PROJECT_DIR$/src/coding_challenges/ReverseStringRecursively.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/src/revolut.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithms/cyclic_sort/FindMissingNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="464" column="17" lean-forward="true" selection-start-line="464" selection-start-column="17" selection-end-line="464" selection-end-column="17" />
+        <state relative-caret-position="420">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/ReferencePipeline.java">
+    <entry file="file://$PROJECT_DIR$/src/coding_challenges/FetchAllDuplicate4mStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-603">
-          <caret line="197" column="5" lean-forward="true" selection-start-line="197" selection-start-column="5" selection-end-line="197" selection-end-column="5" />
+        <state relative-caret-position="435">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/CommonCharsInStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        <state relative-caret-position="375">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+    <entry file="file://$PROJECT_DIR$/src/coding_challenges/Anagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="269" column="29" selection-start-line="269" selection-start-column="26" selection-end-line="269" selection-end-column="34" />
+        <state relative-caret-position="510">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/revolut/LoadBalancer.java" />
+    <entry file="file://$PROJECT_DIR$/src/algorithms/cyclic_sort/FindAllMissingNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="5002" column="32" selection-start-line="5002" selection-start-column="23" selection-end-line="5002" selection-end-column="32" />
-          <folding>
-            <element signature="e#10659#10660#0" expanded="true" />
-            <element signature="e#10730#10731#0" expanded="true" />
-            <element signature="e#223144#223145#0" expanded="true" />
-            <element signature="e#223197#223198#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BehaviourParameterization.java">
+    <entry file="file://$PROJECT_DIR$/src/coding_challenges/AllPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="120" column="33" lean-forward="true" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
+        <state relative-caret-position="210">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modernjava/ExerciseOnStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modernjava/LambdasUsesWithJava8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modernjava/ParallelStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test3.java" />
+    <entry file="file://$PROJECT_DIR$/src/modernjava/StreamsCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CalendarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="30">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExerciseOnStreams.java">
+    <entry file="file://$PROJECT_DIR$/src/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding_challenges/SortMapByKeysOrValue.java">
+    <entry file="file://$PROJECT_DIR$/src/challenge/SortingChallenge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/yiluchallenge/YiluTest1.java">
+    <entry file="file://$PROJECT_DIR$/src/challenge/StringChallenge1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1914">
-          <caret line="139" column="41" lean-forward="true" selection-start-line="139" selection-start-column="41" selection-end-line="139" selection-end-column="41" />
+        <state relative-caret-position="510">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/challenge/StringChallenge2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/lib/sa-jdi.jar!/oracle/jvm/hotspot/jfr/Producer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modernjava/BehaviourParameterization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modernjava/FunctionalInterfaceEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/TwoArraysAreEqual.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TASK.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bays/SteppingStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LambdasUsesWithJava8.java">
+    <entry file="file://$PROJECT_DIR$/src/coding_challenges/MaxOccurringCharInStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="123" column="57" lean-forward="true" selection-start-line="123" selection-start-column="57" selection-end-line="123" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#Apple#0;class#LambdasUsesWithJava8#0" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
